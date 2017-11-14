@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/cursor">
+        <file>img/cursor_paintbucket.png</file>
+        <file>img/cursor_eraser.png</file>
+        <file>img/cursor_circle_off.png</file>
+        <file>img/cursor_circle_on.png</file>
+        <file>img/cursor_draw.png</file>
+        <file>img/cursor_rect_off.png</file>
+        <file>img/cursor_rect_on.png</file>
+        <file>img/left_arrow_icon.png</file>
+        <file>img/right-arrow-icon.png</file>
+        <file>img/circle_icon.png</file>
+        <file>img/draw_icon.png</file>
+        <file>img/eraser_icon.png</file>
+        <file>img/paintbucket_icon.png</file>
+        <file>img/rect_icon.png</file>
+        <file>img/redo_icon.png</file>
+        <file>img/undo_icon.png</file>
+        <file>img/add_icon.png</file>
+        <file>img/delete_icon.png</file>
+    </qresource>
+</RCC>
