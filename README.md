@@ -1,5 +1,2 @@
-# sprite-editor-a7-f17-cs3505-kiraclimber
-sprite-editor-a7-f17-cs3505-kiraclimber created by GitHub Classroom
-
-Architecture:
-Windows 10
+# pixel-sprite-editor
+Part of a groupe project in CS 3505 at the University of Utah
